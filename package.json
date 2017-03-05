@@ -31,7 +31,7 @@
     "native"
   ],
   "peerDependencies": {
-    "eslint-plugin-react-native": "^2.2.0"
+    "eslint-plugin-react-native": "^2.3.0"
   },
   "devDependencies": {
     "conventional-github-releaser": "^1.1.3",
